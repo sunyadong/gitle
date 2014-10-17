@@ -8,7 +8,7 @@ public class deletebook {
 	public String title;
 
 	public String getTitle() {
-		return title;//sdf;lakjfkdsl
+		return title;//sdf;lakjfkdsldakjfl
 	}
 	public void setName(String title) {
 		this.title = title;
