@@ -7,7 +7,7 @@ package books;
 		private String Publisher;
 		private String PublishDate;
 		private int Price;
-		//git ceshi
+		//git ceshi jasklddfs
 		public void setISBN(String ISBN)
 		{
 			this.ISBN = ISBN;
